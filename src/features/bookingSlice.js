@@ -1,4 +1,5 @@
-import {createslice} from '@reduxjs/toolkit';
+import {createSlice} from '@reduxjs/toolkit';
+
 const bookingSlice = createSlice({
   name: 'booking',
   initialState: {
