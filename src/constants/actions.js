@@ -1,3 +1,4 @@
+// Action types for the application
 export const SEARCH_FLIGHTS = 'SEARCH_FLIGHTS';
 export const SEARCH_FLIGHTS_SUCCESS = 'SEARCH_FLIGHTS_SUCCESS';
 export const SEARCH_FLIGHTS_FAILURE = 'SEARCH_FLIGHTS_FAILURE';
